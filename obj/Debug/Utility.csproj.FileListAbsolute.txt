@@ -1,0 +1,11 @@
+C:\Users\ARIBILGI1\source\repos\Utility\bin\Debug\Utility.dll.config
+C:\Users\ARIBILGI1\source\repos\Utility\bin\Debug\Utility.dll
+C:\Users\ARIBILGI1\source\repos\Utility\bin\Debug\Utility.pdb
+C:\Users\ARIBILGI1\source\repos\Utility\bin\Debug\EntityFramework.dll
+C:\Users\ARIBILGI1\source\repos\Utility\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ARIBILGI1\source\repos\Utility\bin\Debug\EntityFramework.xml
+C:\Users\ARIBILGI1\source\repos\Utility\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ARIBILGI1\source\repos\Utility\obj\Debug\Utility.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI1\source\repos\Utility\obj\Debug\Utility.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI1\source\repos\Utility\obj\Debug\Utility.dll
+C:\Users\ARIBILGI1\source\repos\Utility\obj\Debug\Utility.pdb
